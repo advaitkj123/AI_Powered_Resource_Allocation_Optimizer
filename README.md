@@ -2,8 +2,8 @@
 
 ## 📋 Documentation
 
-- **[Requirements Document](./requirements.md)** - Detailed functional requirements and acceptance criteria
-- **[Design Document](./design.md)** - Technical architecture and implementation details
+- **[Requirements Document](.kiro/specs/ai-resource-allocation/requirements.md)** - Detailed functional requirements and acceptance criteria
+- **[Design Document](.kiro/specs/ai-resource-allocation/design.md)** - Technical architecture and implementation details
 
 ## Project Overview
 
